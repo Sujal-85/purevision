@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "283652932210",
+    "project_id": "purevision-70e76",
+    "storage_bucket": "purevision-70e76.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283652932210:android:cfd426150ff51821d2b8eb",
+        "android_client_info": {
+          "package_name": "com.example.purevision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283652932210-h2ri699itvjn8tc382tqpmebsk3plv47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.purevision",
+            "certificate_hash": "05d2fd022241116c1a9e4056f4e72876955a17a9"
+          }
+        },
+        {
+          "client_id": "283652932210-ergk2urr49mv2gqc72gn6ppdcar9fi2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6uL4PjPn-wzIYDqECuP-A-J31BLOD3oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283652932210-ergk2urr49mv2gqc72gn6ppdcar9fi2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
